@@ -1,5 +1,3 @@
-# Gabriel Augusto 🚀👨‍💻
-
 ## Sobre Mim
 Sou fundador da G2NTech, especialista em integrações, automação e soluções de tecnologia. Minha paixão é simplificar processos e conectar sistemas através de tecnologias inovadoras.
 
