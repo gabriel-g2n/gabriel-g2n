@@ -14,7 +14,7 @@ Oferecemos soluções personalizadas em:
 - Node.js (JavaScript & TypeScript)
 - Automação de Sistemas
 - Desenvolvimento de Chatbots
-- Infraestrutura em Nuvem
+- Infraestrutura em Nuvem com Docker
 
 ## 🛠️ Tecnologias & Ferramentas
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
